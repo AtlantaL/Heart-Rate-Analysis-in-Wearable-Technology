@@ -4,4 +4,4 @@
 
 **Date:** Winter 2020
 
-Exploratory data analysis on a repeated measures data. Analyzing heart rate in joggers that wear Garmin watch
+Exploratory data analysis on a repeated measures data. Analyzing heart rate in joggers with a Garmin Lumo Run watch.
