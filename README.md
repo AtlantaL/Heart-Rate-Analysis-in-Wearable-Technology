@@ -1,6 +1,6 @@
 # Wearable Data Analysis
 
-**Authors:** Atlanta Liu, Jenny Kim, Lawrence Shao
+**Authors:** Atlanta Liu, Jenny (So Youn) Kim, Lawrence Shao
 
 **Date:** Winter 2020
 
